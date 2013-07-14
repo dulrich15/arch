@@ -5,8 +5,8 @@ STEM focused "Civilization" game
 
 
 
-## Basic Idea
-
+Basic Idea
+----------
 
 
 A "civilization" type game designed to teach physics. You "unlock" facts 
@@ -25,7 +25,8 @@ technology which will feedback to science and improve prosperity.
 
 
 
-## KPIs
+KPIs
+----
 
 
 Math
@@ -67,8 +68,8 @@ Prosperity
 
 
 
-## Modules
-
+Modules
+-------
 
 We start out "primitive". Math starts out with ability to count. Science starts
 out with four elements. Technology starts out with fire and spear. Prosperity
@@ -92,8 +93,8 @@ Einstein
 
 
 
-## Notes
-
+Notes
+-----
 
 Game should be constructed from the beginning to be expandable. Two reasons:
 
